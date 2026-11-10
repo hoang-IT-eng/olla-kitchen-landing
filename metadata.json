@@ -1,0 +1,6 @@
+{
+  "name": "olla — Stack-smart kitchenware",
+  "description": "Minimal, warm-beige kitchenware landing page for olla with balloon-drop folding grill pan animation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
